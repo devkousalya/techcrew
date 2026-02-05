@@ -6,4 +6,6 @@ Core member:
 - Hariharasudhan R
 - Swathi S
 - Kaarthika M
+
+- vikash k
   
